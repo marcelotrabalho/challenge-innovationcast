@@ -1,11 +1,14 @@
 # Challenge-innovationcast
 
 Este o branch do projeto. A pasta da solution principal é **InnovationCast.Backend.Challenge-main** <br>
+Este projeto está utilizando o **Entity Framework in Memory** para armazenamento temporário.
+Conforme orientado, não criei os testes unitários e de integração. 
+Trabalhei com um cenário otimista, como pode ser visto no código, pois não fiz algumas validações.
 
 Os métodos http criados foram:
-- GET Comments
-- GET CommentsAll
-- POST CommentsAdd
+- **GET** Comments
+- **GET** CommentsAll
+- **POST** CommentsAdd
 
 ### GET Comments ###
 É um GET que retorna os comentários de uma determinada entidade. 
@@ -105,5 +108,39 @@ Return 200 OK
 	"totalResults": 5,
 	"sizeByPage": 1,
 	"timeStamp": "2022-02-17T09:10:26.6081869+00:00"
+}
+```
+
+### POST CommentsAdd ###
+É um post para criar os as entidades
+Ele precisa de um corpo json, conforme abaixo
+```
+{
+	"entidade":"marcelo",
+	"autor":"Marcelo Xavier Almeida",
+	"texto":"<html><body>texto novo 4</body></html>"	
+}
+```
+***Example***
+http://localhost:19094/main/commentsAdd
+
+Return 200 OK
+
+```
+{
+	"comments": {
+		"marcelo": [
+			{
+				"id": "d23d01cd-2111-46e7-b36b-7f5b9c1cd038",
+				"entidade": "marcelo",
+				"autor": "Marcelo Xavier Almeida",
+				"campoTexto": "<html><body>texto novo 4</body></html>",
+				"dataDePublicacao": "2022-02-17T09:10:23.7687276+00:00"
+			}
+		]
+	},
+	"totalResults": 1,
+	"sizeByPage": 1,
+	"timeStamp": "2022-02-17T09:10:23.768959+00:00"
 }
 ```

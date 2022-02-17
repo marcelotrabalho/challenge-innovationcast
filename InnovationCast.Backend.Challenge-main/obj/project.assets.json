@@ -616,11 +616,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\InnovationCast.Backend.Challenge-main\\Backend.Challenge.csproj",
+      "projectUniqueName": "C:\\temp\\challenge\\dotnet\\GitHub\\InnovationCast.Backend.Challenge-main\\Backend.Challenge.csproj",
       "projectName": "Backend.Challenge",
-      "projectPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\InnovationCast.Backend.Challenge-main\\Backend.Challenge.csproj",
+      "projectPath": "C:\\temp\\challenge\\dotnet\\GitHub\\InnovationCast.Backend.Challenge-main\\Backend.Challenge.csproj",
       "packagesPath": "C:\\Users\\AlterUser\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\InnovationCast.Backend.Challenge-main\\obj\\",
+      "outputPath": "C:\\temp\\challenge\\dotnet\\GitHub\\InnovationCast.Backend.Challenge-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AlterUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -638,11 +638,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-application\\Backend.Challenge-application.csproj": {
-              "projectPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-application\\Backend.Challenge-application.csproj"
+            "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-application\\Backend.Challenge-application.csproj": {
+              "projectPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-application\\Backend.Challenge-application.csproj"
             },
-            "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-middleware\\Backend.Challenge-ioc.csproj": {
-              "projectPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-middleware\\Backend.Challenge-ioc.csproj"
+            "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-middleware\\Backend.Challenge-ioc.csproj": {
+              "projectPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-middleware\\Backend.Challenge-ioc.csproj"
             }
           }
         }

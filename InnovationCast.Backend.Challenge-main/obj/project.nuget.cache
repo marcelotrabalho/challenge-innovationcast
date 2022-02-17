@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dJNAK5CWrihSloVLT7OlY8KgGKV435HoNi7UocF14FlgOAXroAE6MnV3supLLFh/NAc2gpRV9nDxVJS9fekwdw==",
+  "dgSpecHash": "X4DFmFfeOPJXZBK8QeEwKSsgIJpKc7OWn21QCHnhxX1JQWs+JJKZsJbYFg2t+eAsswApEG8IIsvF082CG9KmjQ==",
   "success": true,
-  "projectFilePath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\InnovationCast.Backend.Challenge-main\\Backend.Challenge.csproj",
+  "projectFilePath": "C:\\temp\\challenge\\dotnet\\GitHub\\InnovationCast.Backend.Challenge-main\\Backend.Challenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlterUser\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.14\\microsoft.entityframeworkcore.5.0.14.nupkg.sha512",
     "C:\\Users\\AlterUser\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.14\\microsoft.entityframeworkcore.abstractions.5.0.14.nupkg.sha512",

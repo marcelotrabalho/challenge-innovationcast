@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-application\\Backend.Challenge-application.csproj": {}
+    "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-application\\Backend.Challenge-application.csproj": {}
   },
   "projects": {
-    "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-application\\Backend.Challenge-application.csproj": {
+    "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-application\\Backend.Challenge-application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-application\\Backend.Challenge-application.csproj",
+        "projectUniqueName": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-application\\Backend.Challenge-application.csproj",
         "projectName": "Backend.Challenge-application",
-        "projectPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-application\\Backend.Challenge-application.csproj",
+        "projectPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-application\\Backend.Challenge-application.csproj",
         "packagesPath": "C:\\Users\\AlterUser\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-application\\obj\\",
+        "outputPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AlterUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj": {
-                "projectPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj"
+              "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj": {
+                "projectPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj": {
+    "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj",
+        "projectUniqueName": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj",
         "projectName": "Backend.Challenge-repository",
-        "projectPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj",
+        "projectPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj",
         "packagesPath": "C:\\Users\\AlterUser\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\obj\\",
+        "outputPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AlterUser\\AppData\\Roaming\\NuGet\\NuGet.Config",

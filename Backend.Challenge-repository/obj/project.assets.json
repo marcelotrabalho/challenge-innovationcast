@@ -559,11 +559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj",
+      "projectUniqueName": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj",
       "projectName": "Backend.Challenge-repository",
-      "projectPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj",
+      "projectPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\Backend.Challenge-repository.csproj",
       "packagesPath": "C:\\Users\\AlterUser\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\challenge\\carlos\\InnovationCast.Backend.Challenge-main\\Backend.Challenge-repository\\obj\\",
+      "outputPath": "C:\\temp\\challenge\\dotnet\\GitHub\\Backend.Challenge-repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AlterUser\\AppData\\Roaming\\NuGet\\NuGet.Config",

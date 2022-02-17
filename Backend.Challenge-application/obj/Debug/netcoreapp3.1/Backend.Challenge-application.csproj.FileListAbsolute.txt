@@ -1,0 +1,13 @@
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\bin\Debug\netcoreapp3.1\Backend.Challenge-application.deps.json
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\bin\Debug\netcoreapp3.1\Backend.Challenge-application.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\bin\Debug\netcoreapp3.1\Backend.Challenge-application.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\obj\Debug\netcoreapp3.1\Backend.Challenge-application.csproj.AssemblyReference.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\obj\Debug\netcoreapp3.1\Backend.Challenge-application.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\obj\Debug\netcoreapp3.1\Backend.Challenge-application.AssemblyInfoInputs.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\obj\Debug\netcoreapp3.1\Backend.Challenge-application.AssemblyInfo.cs
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\obj\Debug\netcoreapp3.1\Backend.Challenge-application.csproj.CoreCompileInputs.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\obj\Debug\netcoreapp3.1\Backend.Challenge-application.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\obj\Debug\netcoreapp3.1\Backend.Challenge-application.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-application\obj\Debug\netcoreapp3.1\Backend.Challenge-application.csproj.CopyComplete

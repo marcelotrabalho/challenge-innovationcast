@@ -1,0 +1,15 @@
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-ioc.deps.json
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-ioc.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-ioc.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-application.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-application.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-ioc.csproj.AssemblyReference.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-ioc.AssemblyInfoInputs.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-ioc.AssemblyInfo.cs
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-ioc.csproj.CoreCompileInputs.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-ioc.csproj.CopyComplete
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-ioc.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-ioc.pdb

@@ -1,0 +1,10 @@
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.deps.json
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\obj\Debug\netcoreapp3.1\Backend.Challenge-repository.csproj.AssemblyReference.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\obj\Debug\netcoreapp3.1\Backend.Challenge-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\obj\Debug\netcoreapp3.1\Backend.Challenge-repository.AssemblyInfoInputs.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\obj\Debug\netcoreapp3.1\Backend.Challenge-repository.AssemblyInfo.cs
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\obj\Debug\netcoreapp3.1\Backend.Challenge-repository.csproj.CoreCompileInputs.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\obj\Debug\netcoreapp3.1\Backend.Challenge-repository.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-repository\obj\Debug\netcoreapp3.1\Backend.Challenge-repository.pdb

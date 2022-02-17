@@ -1,0 +1,15 @@
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-middleware.deps.json
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-middleware.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-middleware.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-application.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-application.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\bin\Debug\netcoreapp3.1\Backend.Challenge-repository.pdb
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-middleware.csproj.AssemblyReference.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-middleware.AssemblyInfoInputs.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-middleware.AssemblyInfo.cs
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-middleware.csproj.CoreCompileInputs.cache
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-middleware.csproj.CopyComplete
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-middleware.dll
+C:\temp\challenge\carlos\InnovationCast.Backend.Challenge-main\Backend.Challenge-middleware\obj\Debug\netcoreapp3.1\Backend.Challenge-middleware.pdb

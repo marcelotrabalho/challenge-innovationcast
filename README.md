@@ -8,7 +8,7 @@ Trabalhei com um cenário otimista, como pode ser visto no código, pois não fi
 Os métodos http criados foram:
 - **GET** Comments
 - **GET** CommentsAll
-- **POST** CommentsAdd
+- **POST** CommentsAdd - Quando rodar o programa, executar esta requisição para alimentar a base em memória
 
 ### GET Comments ###
 É um GET que retorna os comentários de uma determinada entidade. 

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Backend.Challenge</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Backend.Challenge-application\Backend.Challenge-application.csproj" />
+    <ProjectReference Include="..\Backend.Challenge-middleware\Backend.Challenge-ioc.csproj" />
+  </ItemGroup>
+
+</Project>

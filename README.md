@@ -18,7 +18,9 @@ Este GET tem tres queries:
 ***Example***
 http://localhost:19094/main/comments?entidade=marcelo&totalResults=2&sizeByPage=20
 
-Return 200 OK
+Return 200 OK 
+
+```
 {
 	"comments": {
 		"marcelo": [
@@ -42,6 +44,7 @@ Return 200 OK
 	"sizeByPage": 20,
 	"timeStamp": "2022-02-16T20:56:11.802191+00:00"
 }
+```
 
 ### GET CommentsAll ###
 É um GET que retorna todas as entidades e seus comentários ordenados por publicação decrescente
